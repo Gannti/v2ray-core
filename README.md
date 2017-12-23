@@ -34,4 +34,5 @@ This repo relies on the following third-party projects:
   
   
   
-  ##### This is a fork from V2Ray's master branch.
+  ##### This is a fork from V2Ray's master branch, 
+  ##### The master branch in this project will keep pace with V2Ray-core.
